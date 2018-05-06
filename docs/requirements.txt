@@ -4,4 +4,4 @@ cloudpickle==0.5.2
 dask==0.17.4
 numpydoc==0.8.0
 sphinx==1.7.4
-sphinx_rtd_theme
+sphinx_rtd_theme==0.3.1
