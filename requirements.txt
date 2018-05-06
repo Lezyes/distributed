@@ -3,7 +3,7 @@ cloudpickle >= 0.2.2
 dask >= 0.17.0
 msgpack==0.5.6
 psutil==5.4.4
-six
+six==1.11.0
 sortedcontainers
 tblib
 toolz >= 0.7.4
