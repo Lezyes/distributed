@@ -1,6 +1,6 @@
 tornado==5.0.2
 toolz==0.9.0
-cloudpickle
+cloudpickle==0.5.2
 dask
 numpydoc
 sphinx
