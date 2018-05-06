@@ -4,7 +4,7 @@ dask >= 0.17.0
 msgpack==0.5.6
 psutil==5.4.4
 six==1.11.0
-sortedcontainers
+sortedcontainers==1.5.10
 tblib
 toolz >= 0.7.4
 tornado >= 4.5.1
